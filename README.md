@@ -1,11 +1,14 @@
 # Welcome
-# Variables and Arithmetic Operators
+# Babylonian Method
 
 Automated grading of homework assignments and tests
 - fork this repository
 - solve the task
 - commit with proper message
 - commit with proper message
+
+# Condition
+![resutl image](babylonian.jpg)  
 
 # Problems
 ## main
