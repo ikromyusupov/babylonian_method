@@ -8,7 +8,7 @@ Automated grading of homework assignments and tests
 - commit with proper message
 
 # Condition
-![resutl image](babylonian.jpg)  
+![resutl image](babylonian_.jpg)  
 
 # Problems
 ## main
